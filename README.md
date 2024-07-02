@@ -31,7 +31,7 @@ Contributions to the project are welcome! Whether it's fixing bugs, adding new f
 
 ### Live Demo
 
-Curious to see the game in action? Check out the live demo [here](#) to experience the excitement of Blackjack firsthand.
+Curious to see the game in action? Check out the live demo [https://blackjack-game-js-css-html.netlify.app] to experience the excitement of Blackjack firsthand.
 
 Enjoy the game and good luck at the tables!
 
@@ -39,6 +39,8 @@ Enjoy the game and good luck at the tables!
 ![Blackjack](https://github.com/ParasSethi8530/Blackjack-Game-JS/assets/133093100/eb027b09-2038-4ba3-b030-f037b018b5e0)
 
 ![blackjack 1](https://github.com/ParasSethi8530/Blackjack-Game-JS/assets/133093100/628407d3-5b64-495c-9604-7df71c101427)
+
+
 
 ![Blackjack 2](https://github.com/ParasSethi8530/Blackjack-Game-JS/assets/133093100/e95aded2-6568-4032-9c8e-e5a9966fe0cd)
 
